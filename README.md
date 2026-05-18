@@ -13,7 +13,8 @@ Explored the Titanic dataset to find survival patterns.
 Interactive dashboard showing COVID trends for 218 countries.
 - Tools: Streamlit, Plotly, Pandas
 - Features: Country selector, cases chart, deaths chart, daily new cases chart
-  **To run:**
+  
+**To run:**
 ```bash
 python -m streamlit run project2_covid.py
 ```
